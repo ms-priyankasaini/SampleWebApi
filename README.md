@@ -9,8 +9,6 @@ Below is the script used to create the table..
 --CREATE SCHEMA EmpDB;
 --USE EmpDB;
 
-select * from employees
-
 /* Table: employees */
 CREATE TABLE employees (
   id              INT NOT NULL,
