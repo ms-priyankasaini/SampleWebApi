@@ -4,6 +4,7 @@ Web Api on CRUD operations on Employee Entity
 This Web Api is build using Entity Framework and Local Sql Server which contains the employees table.
 Below is the script used to create the table..
 
+--I have used the NorthWind Database Employee table and the data.
 --DROP SCHEMA IF EXISTS EmpDB;
 --CREATE SCHEMA EmpDB;
 --USE EmpDB;
